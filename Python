@@ -1,1 +1,27 @@
+🐍 𝐃𝐚𝐲 𝟏 - 𝐑𝐞𝐩𝐥𝐢𝐭 𝟏𝟎𝟎 𝐃𝐚𝐲𝐬 𝐨𝐟 𝐏𝐲𝐭𝐡𝐨𝐧 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞
 
+Welcome to my journey through Replit’s 100 Days of Code challenge using Python!  
+This repo documents my progress, starting from Day 1.
+
+📅 Date
+April 19, 2025
+
+ 🧠 What I Learned Today
+
+- How to write and run Python code on Replit.
+- How to use the `print()` function.
+- Learned to print multiple lines and format them using triple quotes (`"""`).
+- Discovered how to add emojis and strings together in Python.
+- Got introduced to the idea of coding every day for 100 days!
+
+🧾 My Code
+
+python
+print("Anuj Nalawade")
+print("19/4/25")
+print("""I am signing up for Replit's 100 days of Python challenge!
+I will make sure to spend some time every day coding along, for a minimum of 10 minutes a day.
+I'll be using Replit, an amazing online IDE so I can do this from my phone wherever I happen to be.
+No excuses for not coding from the middle of a field!""")
+print("I'm feeling 😁")
+print("You can follow my progress at replit.com/@AnujNalawade")
