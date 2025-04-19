@@ -25,3 +25,54 @@ I'll be using Replit, an amazing online IDE so I can do this from my phone where
 No excuses for not coding from the middle of a field!""")
 print("I'm feeling 😁")
 print("You can follow my progress at replit.com/@AnujNalawade")
+
+📅 Day 2 - Python Practice (Phishing Awareness Script)
+
+🧠 Concepts Covered
+Input and Output in Python
+String formatting
+Variable usage
+Practicing identifying bad coding habits in a humorous way
+Basic user interaction simulation
+Awareness around social engineering and phishing
+
+🛠️ Task
+We were given a poorly written and suspicious script meant to simulate a phishing scam (purely for educational purposes). The goal was to:
+Fix syntax and logic errors in the provided code
+Learn how to use input() and print() properly
+Understand how sensitive information could be misused if shared carelessly
+
+✅ What I Did
+Fixed incorrect variable names and typos
+Properly used input() to get the user’s name, credit card number, and mother’s maiden name
+Corrected formatting issues (unnecessary or broken print() calls)
+Ensured output flows logically and clearly
+Added line breaks for better readability
+
+🧪 Final Output Example
+vbnet
+Copy code
+Definitely not a Phishing Scam
+Your Name: Anuj
+Thanks for logging in
+Anuj
+What is your credit card number? 1234 1563 1345 1345
+Thanks, I definitely won't put
+1234 1563 1345 1345
+into Amazon and order anything weird.
+Promise
+What is your Mother's maiden name? Anna
+
+That's cool, I just wanted to know that Anna was your Mum's maiden name. Not because the bank requested it or anything honest.
+
+🔐 Security Lesson
+This task, although playful, highlighted the dangers of:
+Giving away sensitive information online
+Trusting unknown or suspicious prompts
+The importance of being cautious and aware of phishing attempts
+
+💡 What I Learned
+How to handle user input effectively
+Good vs. bad practices when writing interactive scripts
+How easy it is to manipulate users with seemingly harmless code
+Never to trust programs asking for credit card details or personal info unless verified
